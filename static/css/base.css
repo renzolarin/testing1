@@ -1,0 +1,8 @@
+h1{
+ color;#4ac1f7;
+}
+.mylogo {
+    width: 120px;   /* resize */
+    height: auto;   /* keep proportions */
+    display: block;
+}
